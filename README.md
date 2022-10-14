@@ -8,19 +8,19 @@ En esta ocasion nos adentramos a comprobar como funciona el motor de fisicas
 
   Como podemos observar, al no ponerle fisicas a los objetos, los objetos se quedan inmoviles en su posicion inicial, sin que les afecte la gravedad.
 
-### Luego le colocamos fisicas solo a la esfera:
+* ### Luego le colocamos fisicas solo a la esfera:
 
   ![2o](https://user-images.githubusercontent.com/72491269/195812995-dc421b82-0d7f-4b3e-af76-17402b16559c.gif)
 
   Ahora al colocarle fisicas a la esfera comprobamos que la esfera cuenta con gravedad y todas las propiedades fisicas posibles.
 
-### Ahora le colocamos fisicas a ambos objetos:
+* ### Ahora le colocamos fisicas a ambos objetos:
 
   ![3o](https://user-images.githubusercontent.com/72491269/195813946-06d27f08-7df6-4c61-a5aa-0992cc64257a.gif)
 
   Ahora al colocarle fisicas a ambos comprobamos que la esfera y el cubo cuentan con gravedad y todas las propiedades fisicas posibles.
 
-### Lo siguiente será modificar el peso de la esfera para que pese 10 veces mas que el cubo.
+* ### Lo siguiente será modificar el peso de la esfera para que pese 10 veces mas que el cubo.
 
   ![4o](https://user-images.githubusercontent.com/72491269/195816017-564ab10a-6968-41dd-8bfc-60947da88605.gif)
 
