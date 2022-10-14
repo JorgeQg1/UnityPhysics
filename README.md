@@ -2,11 +2,11 @@
 
 En esta ocasion nos adentramos a comprobar como funciona el motor de fisicas
 
-### Comprobamos el comportamiento de dos objetos sin fisicas:
+* ### Comprobamos el comportamiento de dos objetos sin fisicas:
 
-![1o](https://user-images.githubusercontent.com/72491269/195809518-134d085c-31ff-4f58-b7c7-5b178a1b07ca.gif)
+  ![1o](https://user-images.githubusercontent.com/72491269/195809518-134d085c-31ff-4f58-b7c7-5b178a1b07ca.gif)
 
-\t\tComo podemos observar, al no ponerle fisicas a los objetos, los objetos se quedan inmoviles en su posicion inicial, sin que les afecte la gravedad.
+  Como podemos observar, al no ponerle fisicas a los objetos, los objetos se quedan inmoviles en su posicion inicial, sin que les afecte la gravedad.
 
 ### Luego le colocamos fisicas solo a la esfera:
 
