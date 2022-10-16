@@ -25,3 +25,11 @@ En esta ocasion nos adentramos a comprobar como funciona el motor de fisicas
   ![4o](https://user-images.githubusercontent.com/72491269/195816017-564ab10a-6968-41dd-8bfc-60947da88605.gif)
 
   Comprobamos que al pesar mas que antes la fuerza que ejerce sobre el cubo al caer es mucho mayor y por ello el cubo modifica su trayectoria.
+
+* ### A continuacion la esfera tiene físicas y el cubo es de tipo IsTrigger.
+
+  ![5o](https://user-images.githubusercontent.com/72491269/196044281-a2fb60c0-8ee9-48e1-8da4-6b0609bc8741.gif)
+  
+  Podemos observar como al chocar la esfera con el cubo, se detecta dentro de un metodo llamado OnTriggerEnter, el cual cambia su posicion a la inicial y le baja su velocidad a 0. Esto ocurre ya que nuestro cubo ahora mismo no actua como colisionador si no que deja pasar a traves suya cualquier objeto que pase por su posicion. Al poseer esta propiedad podemos hacer uso de tres fases que contiene dicho objeto: OnTriggerEnter, OnTriggerStay y OnTriggerExit.
+  
+  
