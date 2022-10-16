@@ -32,4 +32,9 @@ En esta ocasion nos adentramos a comprobar como funciona el motor de fisicas
   
   Podemos observar como al chocar la esfera con el cubo, se detecta dentro de un metodo llamado OnTriggerEnter, el cual cambia su posicion a la inicial y le baja su velocidad a 0. Esto ocurre ya que nuestro cubo ahora mismo no actua como colisionador si no que deja pasar a traves suya cualquier objeto que pase por su posicion. Al poseer esta propiedad podemos hacer uso de tres fases que contiene dicho objeto: OnTriggerEnter, OnTriggerStay y OnTriggerExit.
   
+  El codigo del script creado para dicho ejemplo se puede ver en el fichero: TriggerTry.cs
+
+* ### Ahora la esfera tiene físicas, el cubo es de tipo IsTrigger y tambien tiene físicas.
+
+  
   
