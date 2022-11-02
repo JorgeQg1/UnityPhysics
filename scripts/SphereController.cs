@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class OwnCharacterController : MonoBehaviour
+public class SphereController : MonoBehaviour
 {
     public float velocity;
     public float rotationVelocity;
@@ -18,12 +18,12 @@ public class OwnCharacterController : MonoBehaviour
     void Update() {
         Debug.DrawRay(this.transform.position, this.transform.TransformDirection(Vector3.forward) * 5f, Color.blue);
 
-        if (Input.GetButton("Vertical")) {
-            this.transform.Translate(Vector3.forward * Input.GetAxis("Vertical") * velocity * Time.deltaTime);
+        if (Input.GetButton("Eje_Y")) {
+            this.transform.Translate(Vector3.forward * Input.GetAxis("Eje_Y") * velocity * Time.deltaTime);
         }
 
-        if (Input.GetButton("Horizontal")){
-            this.transform.Rotate(0, Input.GetAxis("Horizontal") * rotationVelocity, 0);
+        if (Input.GetButton("Eje_X")){
+            this.transform.Rotate(0, Input.GetAxis("Eje_X") * rotationVelocity, 0);
         } 
     }
 }
