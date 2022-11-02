@@ -47,5 +47,15 @@ En esta ocasion nos adentramos a comprobar como funciona el motor de fisicas
   Ahora al colocarle fisicas a ambos comprobamos que la esfera y el cubo cuentan con gravedad y todas las propiedades fisicas posibles. Ademas, comprobamos como ejerce mas fuerza la esfera sobre el cubo al pesar 10 veces mas que el cubo aunque al impedir la rotacion sobre el plano X y Z podemos ver como el cubo no se tumba sobre sus lados al caer aun siendo golpeado por la esfera.
 
 * ### Para el ejercicio dos, se nos pide hacer un script que haga que nuestro jugador pueda moverse por los ejes ya creados, horizontal y vertical.
+
+  ![8o](https://user-images.githubusercontent.com/72491269/199381299-c985f496-7a35-4477-8668-42117f03f40d.gif)
+  
+  Podemos ver que si se presiona algun boton del eje vertical (w, s, flecha arriba o flecha abajo) nuestro cubo se movera al frente (w o flecha arriba) o de espaldas (s o flecha abajo) en base a una velocidad establecida y la cual se puede modificar en el inspector ya que es publica. Tambien si es presionado algun boton del eje horizontal (a, d, flecha izquierda o flecha derecha) nuestro cubo rotara en el eje OY tanto hacia la izquierda (valores negativos) como a la derecha (valores positivos).
+  
+  
+  
+  
+  
+  
   
   
