@@ -52,10 +52,16 @@ En esta ocasion nos adentramos a comprobar como funciona el motor de fisicas
   
   Podemos ver que si se presiona algun boton del eje vertical (w, s, flecha arriba o flecha abajo) nuestro cubo se movera al frente (w o flecha arriba) o de espaldas (s o flecha abajo) en base a una velocidad establecida y la cual se puede modificar en el inspector ya que es publica. Tambien si es presionado algun boton del eje horizontal (a, d, flecha izquierda o flecha derecha) nuestro cubo rotara en el eje OY tanto hacia la izquierda (valores negativos) como a la derecha (valores positivos).
   
+* ### Para finalizar en el ultimo apartado se nos pide que creemos una escena que cumpla diferentes requisitos:
   
-  
-  
-  
-  
-  
-  
+  * ## Se deben incluir varios cilindros sobre la escena. Cada vez que el objeto jugador colisione con alguno de ellos, deben aumentar su tamaño y el jugador aumentar puntuación. Agregar cilindros de tipo A, en los que además, si el jugador pulsa la barra espaciadora lo mueve hacia fuera de él y cilindros tipo B, que se alejen del jugador cuando esté próximo.
+    
+    ![9o](https://user-images.githubusercontent.com/72491269/199408036-9d8f98b9-c0d4-4ec4-a044-02d3dc802918.gif)
+    
+    TODO:COMENTAR
+
+  * ## Ubicar un tercer objeto que sea capaz de detectar colisiones y que se mueva con las teclas: I, L, J, M. Debes ubicar cubos que que aumentan de tamaño cuando se le acerca una esfera y que disminuye cuando se le acerca el jugador.
+    
+    ![10o](https://user-images.githubusercontent.com/72491269/199408717-ea927b3e-ab3e-4425-89c1-bf0c6e8db7df.gif)
+    
+    TODO:COMENTAR
