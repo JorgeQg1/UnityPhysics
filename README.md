@@ -54,13 +54,13 @@ En esta ocasion nos adentramos a comprobar como funciona el motor de fisicas
   
 * ### Para finalizar en el ultimo apartado se nos pide que creemos una escena que cumpla diferentes requisitos:
   
-  * ## Se deben incluir varios cilindros sobre la escena. Cada vez que el objeto jugador colisione con alguno de ellos, deben aumentar su tamaño y el jugador aumentar puntuación. Agregar cilindros de tipo A, en los que además, si el jugador pulsa la barra espaciadora lo mueve hacia fuera de él y cilindros tipo B, que se alejen del jugador cuando esté próximo.
+  * #### Se deben incluir varios cilindros sobre la escena. Cada vez que el objeto jugador colisione con alguno de ellos, deben aumentar su tamaño y el jugador aumentar puntuación. Agregar cilindros de tipo A, en los que además, si el jugador pulsa la barra espaciadora lo mueve hacia fuera de él y cilindros tipo B, que se alejen del jugador cuando esté próximo.
     
     ![9o](https://user-images.githubusercontent.com/72491269/199408036-9d8f98b9-c0d4-4ec4-a044-02d3dc802918.gif)
     
     TODO:COMENTAR
 
-  * ## Ubicar un tercer objeto que sea capaz de detectar colisiones y que se mueva con las teclas: I, L, J, M. Debes ubicar cubos que que aumentan de tamaño cuando se le acerca una esfera y que disminuye cuando se le acerca el jugador.
+  * #### Ubicar un tercer objeto que sea capaz de detectar colisiones y que se mueva con las teclas: I, L, J, M. Debes ubicar cubos que que aumentan de tamaño cuando se le acerca una esfera y que disminuye cuando se le acerca el jugador.
     
     ![10o](https://user-images.githubusercontent.com/72491269/199408717-ea927b3e-ab3e-4425-89c1-bf0c6e8db7df.gif)
     
